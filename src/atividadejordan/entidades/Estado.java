@@ -12,6 +12,8 @@ package atividadejordan.entidades;
 public class Estado {
     private String nome;
 
+    // Faltou referência para classe Cidade.
+    
     public Estado(String nome) {
         this.nome = nome;
     }
